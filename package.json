@@ -8,7 +8,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web"
     "test": "echo \"Tests passed\""
-  },
+  }
   "dependencies": {
     "expo": "~54.0.33",
     "expo-status-bar": "~3.0.9",
