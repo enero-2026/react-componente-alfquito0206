@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View, Image } from 'react-native'; // image
 
-export function Alumno(props) {
+export default function Alumno(props) {
   const fotoUrl = `https://picsum.photos/seed/${props.matricula}/100`;
   
   return (
