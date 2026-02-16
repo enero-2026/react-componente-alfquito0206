@@ -1,7 +1,7 @@
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View, Button, ScrollView } from 'react-native';
 import { useState } from 'react';
-import { Alumno } from './Alumno'; 
+import  Alumno  from './Alumno'; 
 import { SafeAreaView } from 'react-native-web';
 
 export default function App() {
