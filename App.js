@@ -198,3 +198,4 @@ const estilos = StyleSheet.create({
     backgroundColor: '#c1121f',
   }
 });
+
